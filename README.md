@@ -17,4 +17,3 @@ SQL (MS SQL), Tableau, Excel.
 
 Also available on Tableau: https://public.tableau.com/app/profile/anastasia.kuksova/viz/HR_department_dash/sheet11
 
-Стек проекта: 
